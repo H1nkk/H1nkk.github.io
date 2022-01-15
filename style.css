@@ -1,0 +1,42 @@
+html {
+    font: 20px "Comic Sans", sans-serif ;
+}
+
+body {
+    background-color: grey;
+}
+
+div {
+    width: 400px; 
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+li {
+    margin: 5px auto;
+    list-style-type: none;
+    text-align: center;
+    transition: all 1s ease-out;
+}
+
+a {
+    text-decoration: none;
+    margin: 0 auto;
+    color: rgb(196, 196, 196);
+}
+
+ul {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.wrapper {
+    border: 1px solid black;
+    background-color: rgb(30, 30, 30);
+    padding-left: 0;
+}
+
+li:hover {
+    margin: 15px auto;
+}
+
